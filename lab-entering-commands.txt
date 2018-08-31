@@ -171,4 +171,4 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
-"ls"---command      "-a" ----flag         "desktop"----desktop   $-----prompt
+"ls"---command      "-a" ----flag         "desktop"----desktop   "$"-----prompt
