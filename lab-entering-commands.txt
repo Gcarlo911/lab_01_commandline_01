@@ -16,7 +16,14 @@ Follow the instructions line-by-line.
 $ ls<ENTER>
 
 Copy and paste the output of ls below.
-----------
+---------- 
+Adlm			MPLABXProjects		Things
+Adobe			Movies			drills.py
+Applications		Music			ipe.properties
+Desktop			New Unity Project	isus
+Documents		Pictures		mtec1002
+Downloads		Public			pymel.log
+Library			QLData			xgen
 
 
 
@@ -27,19 +34,20 @@ $ ls D<TAB>
 
 What happens?  Describe it below.
 ----------
-
+screen blinks then nothing happens
 
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
-
+Desktop/   Documents/ Downloads/ 
 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
-
+ls: D: No such file or directory
+ent-v314-008:~ student$ 
 
 
 ==========
@@ -49,7 +57,8 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-
+Ableton			Adobe Flash Builder 4.7	Avid Projects		MATLAB			Max 7			NewBlue			Pro Tools		REAPER Media		Temporary Work		Untitled		eagle			maya
+Adobe			Arduino			Fritzing		MakeHuman		MuseLog.txt		Pd			Processing		Smaart v8		Unreal Projects		Untitled-3.ai		iChats
 
 
 ==========
@@ -59,6 +68,8 @@ $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
 ----------
+.			.TmThBHyOVRrMJdi0	Adobe			Avid Projects		MakeHuman		NewBlue			Processing		Temporary Work		Untitled-3.ai		maya
+..			.localized		Adobe Flash Builder 4.7	Fritzing		Max 7			Pd			REAPER Media		Unreal Projects		eagle
 
 
 
@@ -69,7 +80,7 @@ Copy and paste the first *two lines* of output below.
 
 What command was repeated?
 ----------
-
+ ls -a Documents
 
 
 ==========
@@ -79,7 +90,7 @@ What command was repeated?
 
 What command was repeated?
 ----------
-
+ls -a Documents
 
 
 ==========
@@ -89,7 +100,8 @@ $ ls /Vol<TAB><ENTER>
 
 What is the result of pressing tab?
 ----------
-
+ls: Vol: No such file or directory
+ls: l: No such file or directory
 
 
 ==========
@@ -99,37 +111,37 @@ $ ls doesnotexist
 
 Copy and paste the output below.
 ----------
-
+ls: doesnotexist: No such file or directory
 
 
 ==========
 9.  What key do I press to go to the previous command?
 ----------
-
+up
 
 
 ==========
 10.  Name two flags that we used in this exercise.
 ----------
-
+/a and /l
 
 
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
 ----------
-
+tab
 
 
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
-
+ls D
 
 
 ==========
 13.  Name one argument that we passed to the command.
 ----------
-
+Documents
 
 
 ==========
@@ -139,7 +151,7 @@ $ foo<ENTER>
 
 Copy and paste the output below.
 ----------
-
+-bash: foo: command not found
 
 
 ==========
@@ -149,7 +161,7 @@ Copy and paste the output below.
 
 Copy and paste the output below.
 ----------
-
+-bash: foo: command not found
 
 
 ==========
@@ -159,3 +171,4 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+"ls"---command      "-a" ----flag         "desktop"----desktop   $-----prompt
