@@ -192,7 +192,7 @@ cd ~/mtec1002
 
 Otherwise skip this question/step!
 ----------
-mkdir
+
 
 
 ==========
@@ -260,31 +260,31 @@ rmdir
 ==========
 25. What command is used to print out your current working directory?
 ----------
-
+pwd
 
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
-
+-a
 
 
 ==========
 27. What's the shortcut for home directory?
 ----------
-
+~
 
 
 ==========
 28. What's a pathname?
 ----------
-
+a statement of the location of a file or other item
 
 
 ==========
 29. What's a directory?
 ----------
-
+a thing(folder) that contains files or other folders
 
 
 ==========
