@@ -123,7 +123,7 @@ up
 ==========
 10.  Name two flags that we used in this exercise.
 ----------
-/a and /l
+-a and -l
 
 
 ==========
@@ -135,7 +135,7 @@ tab
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
-ls D
+ls
 
 
 ==========
@@ -171,4 +171,4 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
-"ls"---command      "-a" ----flag         "desktop"----desktop   "$"-----prompt
+"ls"---command      "-a" ----flag         "desktop"----arguement   "$"-----prompt
